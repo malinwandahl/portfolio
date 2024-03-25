@@ -7,3 +7,5 @@ plugins:
 logo: "/assets/img/profile_circle.png"
 
 favicon_ico: "/assets/img/favicon.png"
+
+color_scheme: custom_colors
