@@ -3,3 +3,5 @@ author: Malin Wändahl
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+logo: "/assets/img/profile_circle.png"
