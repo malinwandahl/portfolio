@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my portfolio
 ---
+# This is the index file
+
+Some first page content.
 
