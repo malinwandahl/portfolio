@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Resume
 nav_order: 2
 ---
 
