@@ -1,0 +1,65 @@
+{"0": {
+    "doc": "Article child 1",
+    "title": "Article child 1",
+    "content": "Welcome to the first article . ",
+    "url": "/docs/article_child_1.html",
+    
+    "relUrl": "/docs/article_child_1.html"
+  },"1": {
+    "doc": "Article child 2",
+    "title": "Article Child 2",
+    "content": "Welcome to this article . ",
+    "url": "/docs/article_child_2.html#article-child-2",
+    
+    "relUrl": "/docs/article_child_2.html#article-child-2"
+  },"2": {
+    "doc": "Article child 2",
+    "title": "Article child 2",
+    "content": " ",
+    "url": "/docs/article_child_2.html",
+    
+    "relUrl": "/docs/article_child_2.html"
+  },"3": {
+    "doc": "Articles",
+    "title": "Articles",
+    "content": "Here are some articles related to technical documentation, localization, ux copy and in-app onboarding content. ",
+    "url": "/docs/articles.html",
+    
+    "relUrl": "/docs/articles.html"
+  },"4": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "Some first page content. Link to another page . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"5": {
+    "doc": "Resume",
+    "title": "Curriculum vitae",
+    "content": "This is my cv . ",
+    "url": "/docs/resume.html#curriculum-vitae",
+    
+    "relUrl": "/docs/resume.html#curriculum-vitae"
+  },"6": {
+    "doc": "Resume",
+    "title": "Previous assignments",
+    "content": " ",
+    "url": "/docs/resume.html#previous-assignments",
+    
+    "relUrl": "/docs/resume.html#previous-assignments"
+  },"7": {
+    "doc": "Resume",
+    "title": "Resume",
+    "content": " ",
+    "url": "/docs/resume.html",
+    
+    "relUrl": "/docs/resume.html"
+  },"8": {
+    "doc": "Writing samples",
+    "title": "Writing samples",
+    "content": "Here are some writing samples . ",
+    "url": "/docs/writing-samples.html",
+    
+    "relUrl": "/docs/writing-samples.html"
+  }
+}
